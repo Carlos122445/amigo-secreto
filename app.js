@@ -51,3 +51,5 @@ function sortearAmigo() {
     
     document.getElementById("resultado").innerHTML = resultado.map(r => `<li>${r}</li>`).join("");
 }
+
+//tive alguns problemas que me fizeram ficar sempc por um bom tempo. Sinceramente, nao conclui tudo exatamentedo jeito correto, mas agora que estou com um note (mesmo que velho), farei todos os processos adequadamente. Agradeço.
